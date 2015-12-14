@@ -1,7 +1,6 @@
 package com.libgdx.subin.trial2;
 
 import android.app.Activity;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -28,6 +27,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends Activity {
 
+    // hey its working
 
     String sun,returnString2;
 
