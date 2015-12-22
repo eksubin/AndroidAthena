@@ -28,7 +28,7 @@ import java.util.ArrayList;
 public class MainActivity extends Activity {
 
     // hello i made few changes
-    //how to avoid push to the git
+    //how to avoid push to the gi
 
     String sun,returnString2;
 
