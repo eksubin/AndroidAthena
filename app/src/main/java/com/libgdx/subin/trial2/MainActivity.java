@@ -27,7 +27,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends Activity {
 
-    // hey its working
+    // hey its
 
     String sun,returnString2;
 
