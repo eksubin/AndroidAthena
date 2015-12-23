@@ -27,10 +27,8 @@ import java.util.ArrayList;
 
 public class MainActivity extends Activity {
 
-    // hello i made few changes
-    //how to avoid push to the g
-
     String sun,returnString2;
+    String nameer;
 
     TextView hoo;
     public static final String KEY_121 = "http://athena.nitc.ac.in/navaneeth_b140143cs/test.php";
